@@ -1,5 +1,5 @@
 1- funcao getComputerChoice
 .retornar pedra papel ou tesoura
-usando o math randon, gerar um valor de 1 até 3,
-1 será papel, 2 pedra, 3 tesoura
+usando o math randon, gerar um valor de 0 até 2,
+0 será papel, 1 pedra, 2 tesoura
 
